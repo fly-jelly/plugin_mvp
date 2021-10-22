@@ -1,0 +1,42 @@
+package #PACKAGE_NAME#.ui.activities;
+
+import android.view.View;
+
+import #PACKAGE_NAME#.iviews.I#ACTIVITY_CLASS_NAME#View;
+import #PACKAGE_NAME#.presenter.#ACTIVITY_CLASS_NAME#Presenter;
+import com.jelly.base.ui.activities.BaseMvpActivity;
+import #PACKAGE_NAME#.R;
+
+/**
+ * @author ${admin}
+ * @version 1.0
+ * @date ${date}
+ * @desc
+ */
+public class #ACTIVITY_CLASS_NAME#Activity extends BaseMvpActivity<#ACTIVITY_CLASS_NAME#Presenter, I#ACTIVITY_CLASS_NAME#View> implements I#ACTIVITY_CLASS_NAME#View {
+    @Override
+    protected #ACTIVITY_CLASS_NAME#Presenter setPresenter() {
+        return new #ACTIVITY_CLASS_NAME#Presenter(this);
+    }
+
+    @Override
+    public void onClick(View v) {
+
+    }
+
+    @Override
+    protected int getLayoutId() {
+        return R.layout.#LAYOUT_ID_NAME#;
+    }
+
+    @Override
+    protected void initView() {
+
+    }
+
+    @Override
+    protected void loadData() {
+
+    }
+}
+

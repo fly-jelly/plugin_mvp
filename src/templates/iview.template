@@ -1,0 +1,12 @@
+package #PACKAGE_NAME#.iviews;
+
+import com.jelly.base.common.IBaseView;
+
+/**
+ * @author
+ * @version 1.0
+ * @date ${date}
+ * @desc
+ */
+public interface I#ACTIVITY_CLASS_NAME#View extends IBaseView {
+}

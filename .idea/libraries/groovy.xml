@@ -1,0 +1,60 @@
+<component name="libraryTable">
+  <library name="groovy">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/src/spec/test" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/src/tck/src" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/src/test" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/src/test-fixtures/extmodule/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/src/test-resources" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-ant/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-ant/src/test-resources" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-ant/src/test/groovy" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-astbuilder/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-astbuilder/src/test/groovy" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-bsf/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-bsf/src/spec/test" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-bsf/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-console/src/main/groovy" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-datetime/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-datetime/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-dateutil/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-dateutil/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-groovydoc/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-groovydoc/src/test/groovy" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-groovydoc/src/test/resources" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-jaxb/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-jmx/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-jmx/src/test/groovy" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-jmx/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-json/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-jsr223/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-jsr223/src/spec/test" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-jsr223/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-macro/src/main/groovy" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-macro/src/test/groovy" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-nio/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-servlet/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-servlet/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-sql/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-swing/src/main/groovy" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-swing/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-swing/src/test/groovy" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-templates/src/main/groovy" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-templates/src/test/groovy" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-templates/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-test-junit5/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-test/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-testng/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-xml/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-xml/src/test/groovy" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/groovy-yaml/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/parser-antlr4/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/performance/src/jmh/groovy" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/performance/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../software/Android/groovy/groovy-3.0.9/src/subprojects/stress/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

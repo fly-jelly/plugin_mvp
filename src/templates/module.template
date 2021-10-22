@@ -1,0 +1,10 @@
+package #PACKAGE_NAME#.module;
+
+/**
+ * @author
+ * @version 1.0
+ * @date ${date}
+ * @desc 实体类
+ */
+public class #ACTIVITY_CLASS_NAME#Module {
+}

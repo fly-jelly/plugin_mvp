@@ -1,0 +1,17 @@
+package #PACKAGE_NAME#.presenter;
+
+import com.jelly.base.common.BasePresenter;
+import #PACKAGE_NAME#.iviews.I#ACTIVITY_CLASS_NAME#View;
+import #PACKAGE_NAME#.module.#ACTIVITY_CLASS_NAME#Module;
+
+/**
+ * @author
+ * @version 1.0
+ * @date ${date}
+ * @desc
+ */
+public class #ACTIVITY_CLASS_NAME#Presenter extends BasePresenter<I#ACTIVITY_CLASS_NAME#View> {
+    public #ACTIVITY_CLASS_NAME#Presenter(I#ACTIVITY_CLASS_NAME#View view) {
+        super(view);
+    }
+}

@@ -1,0 +1,30 @@
+<idea-plugin>
+  <id>com.your.company.unique.plugin.id</id>
+  <name>LingAnMvpPlugin</name>
+  <version>1.0</version>
+  <vendor email="zhengjiqingxue@163.com" url="http://www.163.com">jelly</vendor>
+
+  <description>LingAn mvp plugin</description>
+
+  <change-notes>
+    1、Frist version
+  </change-notes>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+
+  <actions>
+    <action id="MenuActionID" class="MenuAction" text="MvpHelper">
+      <add-to-group group-id="CodeMenu" anchor="first"/>
+    </action>
+  </actions>
+
+</idea-plugin>
